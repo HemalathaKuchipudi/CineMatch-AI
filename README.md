@@ -1,4 +1,4 @@
-<img width="1273" height="660" alt="Screenshot 2026-05-09 at 6 31 56 PM" src="https://github.com/user-attachments/assets/2d13ebe3-6cb1-4bd3-884b-5d397e199de2" /><img width="1273" height="660" alt="Screenshot 2026-05-09 at 6 31 56 PM" src="https://github.com/user-attachments/assets/5b627e8c-d6c0-4f6a-9f32-06c026852e81" /># CineMatch AI 🎬
+
 
 A modern AI-powered Movie Recommendation System web application built with React, FastAPI, and TMDB API. It features a Netflix-inspired dark UI with smooth animations and content-based recommendation logic.
 
