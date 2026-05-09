@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "/Users/honey/MovieRecomendationsystem/backend/venv/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "python.analysis.extraPaths": [
+        "/Users/honey/MovieRecomendationsystem/backend",
+        "/Users/honey/MovieRecomendationsystem/backend/venv/lib/python3.13/site-packages"
+    ]
+}

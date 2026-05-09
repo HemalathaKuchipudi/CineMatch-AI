@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+httpx
+scikit-learn
+pandas
+python-dotenv
