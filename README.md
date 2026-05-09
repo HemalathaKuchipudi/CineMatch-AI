@@ -1,4 +1,4 @@
-# CineMatch AI 🎬
+
 
 A modern AI-powered Movie Recommendation System web application built with React, FastAPI, and TMDB API. It features a Netflix-inspired dark UI with smooth animations and content-based recommendation logic.
 
@@ -69,3 +69,26 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 - **Frontend**: React, Vite, Tailwind CSS v3, Framer Motion, Axios, React Router, Lucide React
 - **Backend**: Python, FastAPI, Scikit-learn, Pandas, HTTPX
 - **API**: TMDB
+
+- # CineMatch AI 🎬
+
+A modern movie recommendation web application built using React, FastAPI, Tailwind CSS, and TMDB API.
+
+## Home Page
+<img width="1280" height="681" alt="Screenshot 2026-05-09 at 6 23 40 PM" src="https://github.com/user-attachments/assets/6a0d38a2-9301-48d1-87bc-db5407cc66fc" />
+
+
+## Search Feature
+<img width="1273" height="660" alt="Screenshot 2026-05-09 at 6 31 56 PM" src="https://github.com/user-attachments/assets/c94df363-9e6f-4b2e-9f7e-bb09c8d3cf77" />
+
+
+
+## Recommendations Page
+
+
+<img width="1280" height="676" alt="Screenshot 2026-05-09 at 6 19 21 PM" src="https://github.com/user-attachments/assets/630e1748-48e5-4bfd-8d27-94b85b11171b" />
+
+
+##watchlist
+<img width="1269" height="670" alt="Screenshot 2026-05-09 at 6 19 51 PM" src="https://github.com/user-attachments/assets/3cac8cfb-9101-473d-9757-0157eb3165f5" />
+
